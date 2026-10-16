@@ -1,0 +1,3 @@
+reformatar meu código e usar funções mais claras e objetivas
+aprimorar mmry mngmnt
+reformatar código e debugar
